@@ -1,2 +1,3 @@
-# dawnarti
-DawnArtI
+# DawnArtI
+
+Retro Gaming und Küntliche Intelligenz
